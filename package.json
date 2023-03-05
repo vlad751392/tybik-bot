@@ -1,0 +1,14 @@
+{
+  "name": "tgbottybik",
+  "version": "1.0.0",
+  "description": "tg bot tybik",
+  "main": "index.js",
+  "scripts": {
+    "run": "nodemon index.js"
+  },
+  "author": "vladik i kok",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
